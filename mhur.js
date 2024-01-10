@@ -7,7 +7,7 @@ MoreHeavenlyUpgradesRemastered.version = '2.106';
 MoreHeavenlyUpgradesRemastered.GameVersion = '2.052';
 
 //debug
-//Game.Notify('More Heavenly Upgrades Remastered loaded', '', [19, 7], 6);
+Game.Notify('More Heavenly Upgrades Remastered loaded', '', [19, 7], 6);
 
 MoreHeavenlyUpgradesRemastered.launch = function() {
     let cpsUpgrade = 0;
